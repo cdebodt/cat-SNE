@@ -3,7 +3,7 @@ Class-aware t-SNE: cat-SNE
 
 ----------
 
-This code implements cat-SNE, a class-aware version of t-SNE, as well as quality assessment criteria for both supervised and unsupervised dimensionality reduction.
+The python code catsne.py implements cat-SNE, a class-aware version of t-SNE, as well as quality assessment criteria for both supervised and unsupervised dimensionality reduction.
 
 Cat-SNE was presented at the ESANN 2019 conference. 
 
