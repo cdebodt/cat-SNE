@@ -4,17 +4,25 @@ Class-aware t-SNE: cat-SNE
 ----------
 
 This code implements cat-SNE, a class-aware version of t-SNE, as well as quality assessment criteria for both supervised and unsupervised dimensionality reduction.
+
 Cat-SNE was presented at the ESANN 2019 conference. 
 
 Please cite as: 
 - de Bodt, C., Mulders, D., López-Sánchez, D., Verleysen, M., & Lee, J. A. (2019). Class-aware t-SNE: cat-SNE. In ESANN (pp. 409-414).
 - BibTeX entry:
+
 @inproceedings{cdb2019catsne,
+
  title={Class-aware {t-SNE}: {cat-SNE}},
+ 
  author={de Bodt, C. and Mulders, D. and L\'opez-S\'anchez, D. and Verleysen, M. and Lee, J. A.},
+ 
  booktitle={ESANN},
+ 
  pages={409--414},
+ 
  year={2019}
+ 
 }
 
 The most important functions of this file are:
