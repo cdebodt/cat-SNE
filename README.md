@@ -15,7 +15,7 @@ Please cite as:
 
  title={Class-aware {t-SNE}: {cat-SNE}},
  
- author={de Bodt, C. and Mulders, D. and L\'opez-S\'anchez, D. and Verleysen, M. and Lee, J. A.},
+ author={de Bodt, C. and Mulders, D. and L\\'opez-S\\'anchez, D. and Verleysen, M. and Lee, J. A.},
  
  booktitle={ESANN},
  
@@ -55,7 +55,7 @@ author: Cyril de Bodt (ICTEAM - UCLouvain)
 
 Last modification date: May 15th, 2019
 
-Copyright (c) 2019 Universite catholique de Louvain (UCLouvain), ICTEAM. All rights reserved.
+Copyright (c) 2019 Université catholique de Louvain (UCLouvain), ICTEAM. All rights reserved.
 
 This code was created and tested with Python 3.7.3 (Anaconda distribution, Continuum Analytics, Inc.). It uses the following modules:
 - numpy: version 1.16.3 tested
