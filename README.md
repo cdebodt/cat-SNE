@@ -15,7 +15,7 @@ Please cite as:
 
  title={Class-aware {t-SNE}: {cat-SNE}},
  
- author={de Bodt, C. and Mulders, D. and L\\'opez-S\'anchez, D. and Verleysen, M. and Lee, J. A.},
+ author={de Bodt, C. and Mulders, D. and L{\'o}pez-S\'anchez, D. and Verleysen, M. and Lee, J. A.},
  
  booktitle={ESANN},
  
