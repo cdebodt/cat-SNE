@@ -10,20 +10,15 @@ Cat-SNE was presented at the ESANN 2019 conference.
 Please cite as: 
 - de Bodt, C., Mulders, D., López-Sánchez, D., Verleysen, M., & Lee, J. A. (2019). Class-aware t-SNE: cat-SNE. In ESANN (pp. 409-414).
 - BibTeX entry:
-
+```
 @inproceedings{cdb2019catsne,
-
- title={Class-aware {t-SNE}: {cat-SNE}},
- 
- author={de Bodt, C. and Mulders, D. and L\\'opez-S\\'anchez, D. and Verleysen, M. and Lee, J. A.},
- 
- booktitle={ESANN},
- 
- pages={409--414},
- 
- year={2019}
- 
+ title={Class-aware {t-SNE}: {cat-SNE}}, 
+ author={de Bodt, C. and Mulders, D. and L\\'opez-S\\'anchez, D. and Verleysen, M. and Lee, J. A.}, 
+ booktitle={ESANN}, 
+ pages={409--414}, 
+ year={2019} 
 }
+```
 
 The most important functions of this file are:
 - catsne: enables applying cat-SNE to reduce the dimension of a data set. The documentation of the function describes its parameters. 
@@ -33,14 +28,14 @@ The most important functions of this file are:
 
 At the end of the file, a demo presents how the code and the above functions can be used. Running this code will run the demo. Importing this module will not run the demo. 
 
-Notations:
+## Notations
 - DR: dimensionality reduction
 - HD: high-dimensional
 - LD: low-dimensional
 - HDS: HD space
 - LDS: LD space
 
-References:
+## References
 - [1] de Bodt, C., Mulders, D., López-Sánchez, D., Verleysen, M., & Lee, J. A. (2019). Class-aware t-SNE: cat-SNE. In ESANN (pp. 409-414).
 - [2] Lee, J. A., & Verleysen, M. (2009). Quality assessment of dimensionality reduction: Rank-based criteria. Neurocomputing, 72(7-9), 1431-1443.
 - [3] Lee, J. A., & Verleysen, M. (2010). Scale-independent quality criteria for dimensionality reduction. Pattern Recognition Letters, 31(14), 2248-2257.
